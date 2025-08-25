@@ -1,1 +1,6 @@
 # hello
+
+```
+python hello.py
+
+```
